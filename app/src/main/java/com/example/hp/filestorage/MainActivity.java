@@ -37,13 +37,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         name = findViewById(R.id.nameTx);
-        password = findViewById(R.id.pswrdTx);
+        password = findViewById(R.id.password);
         email = findViewById(R.id.emailTx);
         city = findViewById(R.id.cityTx);
-        spinner = findViewById(R,id,spinner);
+        spinner = findViewById(R.id.spinner);
         button = findViewById(R.id.button);
 
-        final  String[] State ={"Bihar","Jharkhand","Orissa"};
+        final  String[] State = {"Bihar","Jharkhand","Orissa"};
         ArrayAdapter<String>arrayAdapter = new ArrayAdapter<String>(this,android.R.layout.simple_dropdown_item_1line,State);
                 spinner.setAdapter(arrayAdapter);
 

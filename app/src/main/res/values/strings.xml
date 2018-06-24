@@ -1,12 +1,18 @@
 <resources>
     <string name="app_name">File storage</string>
-    <string name="name">Name</string>
-    <string name="name">Name</string>
-    <string name="state">State</string>
-    <string name="e_mail">E-mail</string>
-    <string name="password">Password</string>
-    <string name="signup_form">SignUp Form</string>
-    <string name="city">City</string>
+
+
+    <string name="signUp_form">SignUp Form</string>
+
     <string name="submit">SUBMIT</string>
+    <string name="name">Name</string>
+    <string name="enter_the_name">enter the name</string>
+    <string name="enter_the_e_mail">enter the e_mail</string>
+    <string name="password">Password</string>
+    <string name="city">City</string>
+    <string name="e_mail">E-mail</string>
+    <string name="enter_the_password">enter the password</string>
+    <string name="enter_the_enter">enter the enter</string>
+    <string name="state">State</string>
 
 </resources>

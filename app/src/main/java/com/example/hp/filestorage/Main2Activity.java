@@ -24,7 +24,7 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
        userName = findViewById(R.id.textView);
-       button = findViewById(R.id.sbmitbtn);
+       button = findViewById(R.id.button);
 
 
         button.setOnClickListener(new View.OnClickListener() {
